@@ -30,4 +30,5 @@ def find_valid_calls(planeteer_calls)
     for i in 0...valid_calls.length
       el == valid_calls[i]
     end
+  end 
 end
